@@ -1,0 +1,41 @@
+Rank,Space,Property Name,Occurrences,Probability,Type,Color
+1.0,11,Jail,12409,0.09640379431164009,corner_square,white
+2.0,25,Trafalgar Square,3581,0.02782029071077308,road,red
+3.0,1,Go,3483,0.027058942347283618,corner_square,white
+4.0,20,Vine Street,3469,0.026950178295356553,road,orange
+5.0,6,King's Cross Station,3456,0.02684918310428142,railroad,white
+6.0,19,Marlborough Street,3451,0.026810338800021753,road,orange
+7.0,26,Fenchurch St Station,3415,0.026530659809352156,railroad,white
+8.0,21,Free Parking,3347,0.02600237727142069,corner_square,white
+9.0,23,Chance,3307,0.02569162283734336,chance,white
+10.0,17,Bow Street,3231,0.025101189412596432,road,orange
+11.0,12,Pall Mall,3194,0.0248137415610749,road,purple
+12.0,18,Community Chest,3187,0.024759359535111367,community_chest,white
+13.0,22,Strand,3171,0.024635057761480433,road,red
+14.0,16,Marylebone Station,3154,0.02450298712699757,railroad,white
+15.0,29,Water Works,3133,0.02433984104910697,utility,white
+16.0,27,Leicester Square,3129,0.024308765605699237,road,yellow
+17.0,32,Regent Street,3109,0.02415338838866057,road,green
+18.0,13,Electric Company,3102,0.02409900636269704,utility,white
+19.0,24,Fleet Street,3096,0.02405239319758544,road,red
+20.0,34,Community Chest,3090,0.024005780032473837,community_chest,white
+21.0,28,Coventry Street,3042,0.023632874711581042,road,yellow
+22.0,31,Go to Jail,3004,0.023337657999207576,corner_square,white
+23.0,40,Mayfair,2969,0.023065747869389912,road,koamaru
+24.0,33,Oxford Street,2943,0.022863757487239646,road,green
+25.0,30,Piccadilly,2922,0.022700611409349047,road,yellow
+26.0,15,Northumberland Avenue,2891,0.022459776722939116,road,purple
+27.0,8,Chance,2791,0.021682890637745787,chance,white
+28.0,35,Bond Street,2748,0.021348829621112658,road,green
+29.0,36,Liverpool Street Station,2737,0.02126337215174139,railroad,white
+30.0,14,Whitehall,2727,0.021185683543222058,road,purple
+31.0,9,Euston Road,2712,0.021069150630443057,road,blue
+32.5,5,Income Tax,2648,0.02057194353591933,income_tax,white
+32.5,7,The Angel Islington,2648,0.02057194353591933,road,blue
+34.0,37,Chance,2612,0.02029226454524973,chance,white
+35.0,10,Pentonville Road,2564,0.019919359224356933,road,blue
+36.0,4,Whitechapel Road,2513,0.019523147320908336,road,brown
+37.0,39,Super Tax,2474,0.019220161747682936,luxury_tax,white
+38.0,3,Community Chest,2473,0.019212392886831003,community_chest,white
+39.0,38,Park Lane,2452,0.019049246808940407,road,koamaru
+40.0,2,Old Kent Road,2335,0.01814029008926421,road,brown
